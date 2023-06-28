@@ -15,7 +15,7 @@ $(document).ready(function() {
     // Generate timeline cards
     events.forEach(function(event, index) {
       var card = $('<div class="card"></div>');
-      card.addClass(index % 2 === 0 ? "left" : "right");
+      card.addClass(index % 2 === 0 ? "right" : "left");
       card.attr("id", event.id);
       card.append('<div class="card-date">' + event.date + '</div>');
       card.append('<div class="card-text"><div class="card-text-title">' + event.title + '</div></div>');
