@@ -2,7 +2,8 @@ $(document).ready(function() {
   // Load event data from JSON file
   $.getJSON("timeline.json", function(data) {
     console.log("Data loaded:", data);
-    var events = data.events;
+    var events = data;
+
     var timelineNav = $("#timeline-nav");
     var timelineColumn = $("#timeline-column");
 
