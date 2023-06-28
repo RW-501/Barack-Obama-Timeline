@@ -30,6 +30,7 @@ body {
     display: block;
     margin: auto;
     word-break: break-word;
+  margin-bottom: 5%;
 }
 
 .timeline-cards-main-container {
