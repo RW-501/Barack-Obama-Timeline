@@ -1,0 +1,208 @@
+[
+{
+  "id": "event1",
+  "date": "1961",
+  "title": "Birth",
+  "shortDescription": "Barack Hussein Obama II is born in Honolulu, Hawaii.",
+  "pictureURL": "",
+  "longDescription": "<p>Barack Hussein Obama II is born in Honolulu, Hawaii to Barack Obama Sr. and Stanley Ann Dunham.</p>",
+  "hashtags": ["#Obama ", "#Birth"]
+},
+{
+  "id": "event2",
+  "date": "1979-1981",
+  "title": "College Years",
+  "shortDescription": "Obama attends Occidental College in Los Angeles, California, and later transfers to Columbia University.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama attends Occidental College in Los Angeles, California, for two years before transferring to Columbia University in New York City.</p>",
+  "hashtags": ["#Obama ", "#College"]
+},
+{
+  "id": "event3",
+  "date": "1985-1988",
+  "title": "Community Organizer",
+  "shortDescription": "Obama becomes a community organizer for the Developing Communities Project in Chicago.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama moves to Chicago and becomes a community organizer for the Developing Communities Project.</p>",
+  "hashtags": ["#Obama ", "#CommunityOrganizer"]
+},
+{
+  "id": "event4",
+  "date": "1988-1991",
+  "title": "Harvard Law School",
+  "shortDescription": "Obama attends Harvard Law School and becomes the first African-American president of the Harvard Law Review.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama attends Harvard Law School, where he becomes the first African-American president of the Harvard Law Review.</p>",
+  "hashtags": ["#Obama ", "#HarvardLawSchool"]
+},
+{
+  "id": "event5",
+  "date": "1992-2004",
+  "title": "Teaching and State Senate",
+  "shortDescription": "Obama teaches constitutional law at the University of Chicago Law School and serves in the Illinois State Senate.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama teaches constitutional law at the University of Chicago Law School. He also gets involved in local politics and serves in the Illinois State Senate from 1997 to 2004.</p>",
+  "hashtags": ["#Obama ", "#Teaching", "#StateSenate"]
+},
+{
+  "id": "event6",
+  "date": "2004",
+  "title": "Democratic National Convention",
+  "shortDescription": "Obama delivers the keynote address at the Democratic National Convention, gaining national attention.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama delivers the keynote address at the Democratic National Convention, which brings him national attention.</p>",
+  "hashtags": ["#Obama ", "#DemocraticNationalConvention"]
+},
+{
+  "id": "event7",
+  "date": "2005-2008",
+  "title": "U.S. Senator from Illinois",
+  "shortDescription": "Obama serves as the U.S. Senator from Illinois and gains popularity within the Democratic Party.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama serves as the U.S. Senator from Illinois after winning the 2004 election. He gains popularity and becomes a prominent figure within the Democratic Party.</p>",
+  "hashtags": ["#Obama ", "#USsenator"]
+},
+{
+  "id": "event8",
+  "date": "2007-2008",
+  "title": "Presidential Campaign",
+  "shortDescription": "Obama announces his candidacy for the presidency and secures the Democratic Party's nomination.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama announces his candidacy for the presidency on February 10, 2007. He competes in the Democratic primaries against Hillary Clinton and eventually secures the party's nomination.</p>",
+  "hashtags": ["#Obama ", "#PresidentialCampaign"]
+},
+{
+  "id": "event9",
+  "date": "2008",
+  "title": "Presidential Election",
+  "shortDescription": "Obama wins the presidential election, becoming the first African-American president-elect of the United States.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama wins the presidential election, defeating Republican candidate John McCain. He becomes the first African-American president-elect of the United States.</p>",
+  "hashtags": ["#Obama ", "#PresidentialElection"]
+},
+{
+  "id": "event10",
+  "date": "2009-2017",
+  "title": "First Term as President",
+  "shortDescription": "Obama faces challenges such as the Great Recession, the passing of the Affordable Care Act, and the withdrawal of U.S. troops from Iraq.",
+  "pictureURL": "",
+  "longDescription": "<p>During his first term, Obama faces major challenges, including the Great Recession, the passing of the Affordable Care Act (ACA), and the withdrawal of U.S. troops from Iraq.</p>",
+  "hashtags": ["#Obama ", "#FirstTerm"]
+},
+{
+  "id": "event11",
+  "date": "2009",
+  "title": "Nobel Peace Prize",
+  "shortDescription": "Obama receives the Nobel Peace Prize for his efforts to strengthen international diplomacy and cooperation.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama receives the Nobel Peace Prize in 2009 for his efforts to strengthen international diplomacy and cooperation.</p>",
+  "hashtags": ["#Obama ", "#NobelPeacePrize"]
+},
+{
+  "id": "event12",
+  "date": "2010",
+  "title": "Deepwater Horizon Oil Spill",
+  "shortDescription": "The Deepwater Horizon oil spill occurs, prompting Obama's administration to respond to the environmental disaster.",
+  "pictureURL": "",
+  "longDescription": "<p>The Deepwater Horizon oil spill occurs in 2010, prompting Obama's administration to respond to the environmental disaster.</p>",
+  "hashtags": ["#Obama ", "#DeepwaterHorizon"]
+},
+{
+  "id": "event13",
+  "date": "2011",
+  "title": "Assassination of Osama bin Laden",
+  "shortDescription": "The assassination of Osama bin Laden takes place during Obama's presidency.",
+  "pictureURL": "",
+  "longDescription": "<p>The assassination of Osama bin Laden takes place in 2011, during Obama's presidency.</p>",
+  "hashtags": ["#Obama ", "#OsamaBinLaden"]
+},
+{
+  "id": "event14",
+  "date": "2012",
+  "title": "Re-election",
+  "shortDescription": "Obama is re-elected for a second term, defeating Republican candidate Mitt Romney.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama is re-elected for a second term in 2012, defeating Republican candidate Mitt Romney.</p>",
+  "hashtags": ["#Obama ", "#Reelection"]
+},
+{
+  "id": "event15",
+  "date": "2013-2017",
+  "title": "Second Term as President",
+  "shortDescription": "Obama focuses on issues such as gun control, immigration reform, climate change, and criminal justice reform.",
+  "pictureURL": "",
+  "longDescription": "<p>During his second term, Obama focuses on issues such as gun control, immigration reform, climate change, and criminal justice reform.</p>",
+  "hashtags": ["#Obama ", "#SecondTerm"]
+},
+{
+  "id": "event16",
+  "date": "2015",
+  "title": "Iran Nuclear Deal",
+  "shortDescription": "The United States, under Obama's leadership, enters into the Iran nuclear deal.",
+  "pictureURL": "",
+  "longDescription": "<p>The United States, under Obama's leadership, enters into the Iran nuclear deal in 2015, aiming to limit Iran's nuclear program.</p>",
+  "hashtags": ["#Obama ", "#IranNuclearDeal"]
+},
+{
+  "id": "event17",
+  "date": "2015",
+  "title": "Paris Agreement",
+  "shortDescription": "Obama plays a significant role in the negotiations that lead to the Paris Agreement on climate change.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama plays a significant role in the negotiations that lead to the Paris Agreement on climate change in 2015.</p>",
+  "hashtags": ["#Obama ", "#ParisAgreement"]
+},
+{
+  "id": "event18",
+  "date": "2016",
+  "title": "Visit to Cuba",
+  "shortDescription": "Obama visits Cuba, marking a historic shift in U.S.-Cuba relations.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama visits Cuba in 2016, marking a historic shift in U.S.-Cuba relations.</p>",
+  "hashtags": ["#Obama ", "#Cuba"]
+},
+{
+  "id": "event19",
+  "date": "2016",
+  "title": "Presidential Election",
+  "shortDescription": "Obama campaigns for Hillary Clinton, but she loses to Donald Trump in the 2016 presidential election.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama campaigns for Hillary Clinton, the Democratic nominee, but she loses to Donald Trump in the 2016 presidential election.</p>",
+  "hashtags": ["#Obama ", "#PresidentialElection"]
+},
+{
+  "id": "event20",
+  "date": "2017",
+  "title": "Leaving Office",
+  "shortDescription": "Obama leaves office and hands over the presidency to Donald Trump.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama leaves office on January 20, 2017, and hands over the presidency to Donald Trump.</p>",
+  "hashtags": ["#Obama ", "#LeavingOffice"]
+},
+{
+  "id": "event21",
+  "date": "2020",
+  "title": "Memoir and Obama Foundation",
+  "shortDescription": "Obama writes his memoir, 'A Promised Land,' and forms the Obama Foundation to promote civic engagement and community leadership.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama writes his memoir, 'A Promised Land,' which is published in 2020 and becomes a bestseller. He also forms the Obama Foundation, which aims to promote civic engagement and community leadership.</p>",
+  "hashtags": ["#Obama ", "#Memoir", "#ObamaFoundation"]
+},
+{
+  "id": "event22",
+  "date": "2020",
+  "title": "Supporting Joe Biden",
+  "shortDescription": "Obama supports Joe Biden's presidential campaign and assists in his transition to the presidency.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama supports Joe Biden's presidential campaign in 2020 and assists in his transition to the presidency.</p>",
+  "hashtags": ["#Obama ", "#JoeBiden"]
+},
+{
+  "id": "event23",
+  "date": "2021-Present",
+  "title": "Continued Advocacy",
+  "shortDescription": "Obama continues to advocate for various causes, including healthcare, voting rights, and criminal justice reform.",
+  "pictureURL": "",
+  "longDescription": "<p>Obama continues to advocate for various causes, including healthcare, voting rights, and criminal justice reform.</p>",
+  "hashtags": ["#Obama ", "#Advocacy"]
+}]
